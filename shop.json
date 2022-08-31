@@ -2,7 +2,7 @@
     "products": [
   
       {
-        "id": 1,
+        "id": 0,
         "quantity": 1,
         "name": "Sweat à capuche coupe régulière",
         "category": "homme",
@@ -17,7 +17,7 @@
       },
   
       {
-          "id": 2,
+          "id": 1,
           "quantity": 1,
           "name": "Sweat col rond tricolore en molleton",
           "category": "enfant",
@@ -30,7 +30,7 @@
         },
   
         {
-          "id": 3,
+          "id": 2,
           "quantity": 1,
           "name": "Jogging Top",
           "category": "homme",
@@ -43,7 +43,7 @@
         },
   
         {
-          "id": 4,
+          "id": 3,
           "quantity": 1,
           "name": "Parka Jacket",
           "category": "femme",
@@ -57,7 +57,7 @@
         },
   
         {
-          "id": 5,
+          "id": 4,
           "quantity": 1,
           "name": "Gilet boutonnée en maille ajourée",
           "category": "enfant",
@@ -71,7 +71,7 @@
         },
   
         {
-          "id": 6,
+          "id": 5,
           "quantity": 1,
           "name": "Knit Turtleneck Sweater",
           "category": "femme",
@@ -85,7 +85,7 @@
         },
   
         {
-          "id": 7,
+          "id": 6,
           "quantity": 1,
           "name": "Jogpant camouflage",
           "category": "enfant",
@@ -98,7 +98,7 @@
         },
   
         {
-          "id": 8,
+          "id": 7,
           "quantity": 1,
           "name": "Endeavour Training Sports Top",
           "category": "femme",
@@ -112,7 +112,7 @@
         },
   
         {
-          "id": 9,
+          "id": 8,
           "quantity": 1,
           "name": "Knitted Top",
           "category": "femme",
@@ -125,7 +125,7 @@
         },
   
         {
-          "id": 10,
+          "id": 9,
           "quantity": 1,
           "name": "Seamless Long Sleeve Crop",
           "category": "femme",
@@ -139,7 +139,7 @@
         },
   
         {
-          "id": 11,
+          "id": 10,
           "quantity": 1,
           "name": "Leather Biker Jacket",
           "category": "homme",
@@ -152,7 +152,7 @@
         },
   
         {
-          "id": 12,
+          "id": 11,
           "quantity": 1,
           "name": "Reversible Sherpa Windbreaker",
           "category": "homme",
@@ -166,7 +166,7 @@
         },
   
         {
-          "id": 13,
+          "id": 12,
           "quantity": 1,
           "name": "Polka Dot Dress",
           "category": "femme",
@@ -179,7 +179,7 @@
         },
   
         {
-          "id": 14,
+          "id": 13,
           "quantity": 1,
           "name": "Sweatfree T-shirt",
           "category": "homme",
@@ -193,7 +193,7 @@
         },
   
         {
-          "id": 15,
+          "id": 14,
           "quantity": 1,
           "name": "Patterned Wrap Dress",
           "category": "femme",
